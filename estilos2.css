@@ -1,0 +1,16 @@
+body{
+    background-color: salmon;
+}
+.contenedor{
+    display: flex;
+    flex-flow: wrap row;
+    align-items: center;
+}
+span{
+    display: flex;
+    font-size: 84px;
+    padding: 10% 10% 10% 10%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(101, 139, 255);
+}
